@@ -243,7 +243,7 @@ canvas.particles-js-canvas-el {
     margin-top: 14px;
 }
 
-.about_section #vaishnavipriyanshu198_gmail {
+.about_section #nobleperson7571_gmail {
     font-weight: 600;
     font-size: 20px;
     color: goldenrod;
@@ -327,6 +327,22 @@ canvas.particles-js-canvas-el {
     }
 }
 
+/*Projects Section*/
+.chat-app-div{
+    display: flex;
+    flex-direction: row;
+    margin:20px;
+    gap: 20vh;
+}
+
+.chat-app{
+    width: 500px;
+    box-shadow: 2px 2px 2px 2px rgb(248, 248, 252,0.4);
+}
+.netflix-app{
+    width: 400px;
+    box-shadow: 2px 2px 2px 2px rgb(248, 248, 252,0.4);
+}
 
 /* Skills Section */
 .skills_section {
