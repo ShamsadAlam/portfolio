@@ -245,7 +245,7 @@ canvas.particles-js-canvas-el {
     margin-top: 14px;
 }
 
-.about_section #nobleperson7571_gmail {
+.about_section #vaishnavipriyanshu198_gmail {
     font-weight: 600;
     font-size: 20px;
     color: goldenrod;
@@ -569,6 +569,15 @@ canvas.particles-js-canvas-el {
     margin: -3px 0px;
     color: white;
     transition: 0.5s !important;
+}
+
+.footer-area .list-group .list-group-item a{
+    color: white;
+}
+
+.footer-area .list-group .list-group-item a:hover{
+    text-decoration: none;
+    color: white;
 }
 
 .footer-area .list-group .list-group-item i {
