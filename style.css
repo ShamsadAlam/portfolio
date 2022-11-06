@@ -314,11 +314,6 @@ canvas.particles-js-canvas-el {
     margin-top: 10px;
 }
 
-.about_section .about_me_right_section button:hover {
-    animation: swing;
-    animation-duration: 0.5s;
-}
-
 @media (max-width: 993px) and (min-width: 768px) {
     .about_section .about_me_right_section #txt {
         font-size: 12px;
